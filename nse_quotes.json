@@ -1,0 +1,750 @@
+[
+  {
+    "symbol": "ALPHA",
+    "timestamp": "2025-04-06T19:37:51.951974",
+    "data": {
+      "info": {
+        "symbol": "ALPHA",
+        "companyName": "Kotak Mahindra Mutual Fund - Kotak Nifty Alpha 50 ETF",
+        "industry": "Mutual Fund Scheme",
+        "activeSeries": [
+          "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": true,
+        "isDelisted": false,
+        "isin": "INF174KA1IA5",
+        "slb_isin": "INF174KA1IA5",
+        "listingDate": "2021-12-29",
+        "isMunicipalBond": false,
+        "isHybridSymbol": false,
+        "isTop10": false,
+        "identifier": "ALPHAEQN"
+      },
+      "metadata": {
+        "series": "EQ",
+        "symbol": "ALPHA",
+        "isin": "INF174KA1IA5",
+        "status": "Listed",
+        "listingDate": "29-Dec-2021",
+        "industry": "Mutual Fund Scheme",
+        "lastUpdateTime": "04-Apr-2025 16:00:00",
+        "pdSectorPe": "NA",
+        "pdSymbolPe": "NA",
+        "pdSectorInd": "NA",
+        "pdSectorIndAll": "NA"
+      },
+      "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+          "surv": null,
+          "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 126326753
+      },
+      "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+      },
+      "currentMarketType": "NM",
+      "priceInfo": {
+        "lastPrice": 43.28,
+        "change": -1.3100000000000023,
+        "pChange": -2.9378784480825346,
+        "previousClose": 44.59,
+        "open": 44.11,
+        "close": 42.94,
+        "vwap": 43.28,
+        "stockIndClosePrice": 0,
+        "lowerCP": "35.38",
+        "upperCP": "53.07",
+        "pPriceBand": "20",
+        "basePrice": 0,
+        "intraDayHighLow": {
+          "min": 42.71,
+          "max": 44.69,
+          "value": 43.28
+        },
+        "weekHighLow": {
+          "min": 39.55,
+          "minDate": "03-Mar-2025",
+          "max": 60.91,
+          "maxDate": "16-Oct-2024",
+          "value": 43.28
+        },
+        "iNavValue": "42.74",
+        "checkINAV": true,
+        "tickSize": 0.01,
+        "ieq": ""
+      },
+      "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "basicIndustry": "Mutual Fund Scheme"
+      },
+      "preOpenMarket": {
+        "preopen": [
+          {
+            "price": 0,
+            "buyQty": 0,
+            "sellQty": 0,
+            "iep": true
+          }
+        ],
+        "ato": {
+          "buy": 0,
+          "sell": 0
+        },
+        "IEP": 0,
+        "totalTradedVolume": 0,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": null,
+        "totalBuyQuantity": 0,
+        "totalSellQuantity": 0,
+        "atoBuyQty": 0,
+        "atoSellQty": 0,
+        "Change": 0,
+        "perChange": 0,
+        "prevClose": 0
+      }
+    }
+  },
+  {
+    "symbol": "GOLDIETF",
+    "timestamp": "2025-04-06T19:37:56.718448",
+    "data": {
+      "info": {
+        "symbol": "GOLDIETF",
+        "companyName": "ICICI Prudential Gold ETF",
+        "activeSeries": [
+          "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": false,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": true,
+        "isDelisted": false,
+        "isin": "INF109KC1NT3",
+        "listingDate": "2010-09-02",
+        "isMunicipalBond": false,
+        "isHybridSymbol": false,
+        "isTop10": false,
+        "identifier": "GOLDIETFEQN"
+      },
+      "metadata": {
+        "series": "EQ",
+        "symbol": "GOLDIETF",
+        "isin": "INF109KC1NT3",
+        "status": "Listed",
+        "listingDate": "02-Sep-2010",
+        "industry": "NA",
+        "lastUpdateTime": "04-Apr-2025 16:00:00",
+        "pdSectorPe": "NA",
+        "pdSymbolPe": "NA",
+        "pdSectorInd": "NA",
+        "pdSectorIndAll": "NA"
+      },
+      "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "No",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+          "surv": null,
+          "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 923800600
+      },
+      "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+      },
+      "currentMarketType": "NM",
+      "priceInfo": {
+        "lastPrice": 77.27,
+        "change": -1.1600000000000108,
+        "pChange": -1.4790258829529654,
+        "previousClose": 78.43,
+        "open": 78.5,
+        "close": 77.28,
+        "vwap": 77.4,
+        "stockIndClosePrice": 0,
+        "lowerCP": "62.75",
+        "upperCP": "94.12",
+        "pPriceBand": "20",
+        "basePrice": 0,
+        "intraDayHighLow": {
+          "min": 77.02,
+          "max": 78.5,
+          "value": 77.27
+        },
+        "weekHighLow": {
+          "min": 59,
+          "minDate": "07-Aug-2024",
+          "max": 79.35,
+          "maxDate": "03-Apr-2025",
+          "value": 77.27
+        },
+        "iNavValue": "77.39",
+        "checkINAV": true,
+        "tickSize": 0.01,
+        "ieq": ""
+      },
+      "industryInfo": {
+        "macro": "",
+        "sector": "",
+        "industry": "",
+        "basicIndustry": ""
+      },
+      "preOpenMarket": {
+        "preopen": [
+          {
+            "price": 0,
+            "buyQty": 0,
+            "sellQty": 0,
+            "iep": true
+          }
+        ],
+        "ato": {
+          "buy": 0,
+          "sell": 0
+        },
+        "IEP": 0,
+        "totalTradedVolume": 0,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": null,
+        "totalBuyQuantity": 0,
+        "totalSellQuantity": 0,
+        "atoBuyQty": 0,
+        "atoSellQty": 0,
+        "Change": 0,
+        "perChange": 0,
+        "prevClose": 0
+      }
+    }
+  },
+  {
+    "symbol": "MON100",
+    "timestamp": "2025-04-06T19:38:02.248898",
+    "data": {
+      "info": {
+        "symbol": "MON100",
+        "companyName": "Motilal Oswal Mutual Fund - Motilal Oswal NASDAQ 100 ETF",
+        "industry": "Mutual Fund Scheme",
+        "activeSeries": [
+          "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": true,
+        "isDelisted": false,
+        "isin": "INF247L01AP3",
+        "slb_isin": "INF247L01AP3",
+        "listingDate": "2011-03-31",
+        "isMunicipalBond": false,
+        "isHybridSymbol": false,
+        "isTop10": false,
+        "identifier": "MON100EQN"
+      },
+      "metadata": {
+        "series": "EQ",
+        "symbol": "MON100",
+        "isin": "INF247L01AP3",
+        "status": "Listed",
+        "listingDate": "31-Mar-2011",
+        "industry": "Mutual Fund Scheme",
+        "lastUpdateTime": "04-Apr-2025 16:00:00",
+        "pdSectorPe": "NA",
+        "pdSymbolPe": "NA",
+        "pdSectorInd": "NA",
+        "pdSectorIndAll": "NA"
+      },
+      "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+          "surv": null,
+          "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 499634740
+      },
+      "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+      },
+      "currentMarketType": "NM",
+      "priceInfo": {
+        "lastPrice": 175.4,
+        "change": -4.9199999999999875,
+        "pChange": -2.72848269742679,
+        "previousClose": 180.32,
+        "open": 178.1,
+        "close": 174.95,
+        "vwap": 175.7,
+        "stockIndClosePrice": 0,
+        "lowerCP": "130.80",
+        "upperCP": "196.21",
+        "pPriceBand": "20",
+        "basePrice": 0,
+        "intraDayHighLow": {
+          "min": 172.2,
+          "max": 178.1,
+          "value": 175.4
+        },
+        "weekHighLow": {
+          "min": 138.51,
+          "minDate": "22-Apr-2024",
+          "max": 221.7,
+          "maxDate": "27-Jan-2025",
+          "value": 175.4
+        },
+        "iNavValue": "154.26",
+        "checkINAV": true,
+        "tickSize": 0.01,
+        "ieq": ""
+      },
+      "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "basicIndustry": "Mutual Fund Scheme"
+      },
+      "preOpenMarket": {
+        "preopen": [
+          {
+            "price": 0,
+            "buyQty": 0,
+            "sellQty": 0,
+            "iep": true
+          }
+        ],
+        "ato": {
+          "buy": 0,
+          "sell": 0
+        },
+        "IEP": 0,
+        "totalTradedVolume": 0,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": null,
+        "totalBuyQuantity": 0,
+        "totalSellQuantity": 0,
+        "atoBuyQty": 0,
+        "atoSellQty": 0,
+        "Change": 0,
+        "perChange": 0,
+        "prevClose": 0
+      }
+    }
+  },
+  {
+    "symbol": "MOVALUE",
+    "timestamp": "2025-04-06T19:38:06.705751",
+    "data": {
+      "info": {
+        "symbol": "MOVALUE",
+        "companyName": "Motilal Oswal Mutual Fund - Motilal Oswal SP BSE Enhanced Value ETF",
+        "industry": "Mutual Fund Scheme",
+        "activeSeries": [
+          "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": true,
+        "isDelisted": false,
+        "isin": "INF247L01BE5",
+        "slb_isin": "INF247L01BE5",
+        "listingDate": "2022-08-26",
+        "isMunicipalBond": false,
+        "isHybridSymbol": false,
+        "isTop10": false,
+        "identifier": "MOVALUEEQN"
+      },
+      "metadata": {
+        "series": "EQ",
+        "symbol": "MOVALUE",
+        "isin": "INF247L01BE5",
+        "status": "Listed",
+        "listingDate": "26-Aug-2022",
+        "industry": "Mutual Fund Scheme",
+        "lastUpdateTime": "04-Apr-2025 16:00:00",
+        "pdSectorPe": "NA",
+        "pdSymbolPe": "NA",
+        "pdSectorInd": "NA",
+        "pdSectorIndAll": "NA"
+      },
+      "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+          "surv": null,
+          "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 13557092
+      },
+      "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+      },
+      "currentMarketType": "NM",
+      "priceInfo": {
+        "lastPrice": 93.6,
+        "change": -2.3000000000000114,
+        "pChange": -2.398331595411899,
+        "previousClose": 95.9,
+        "open": 95.91,
+        "close": 92.58,
+        "vwap": 92.98,
+        "stockIndClosePrice": 0,
+        "lowerCP": "76.69",
+        "upperCP": "115.04",
+        "pPriceBand": "20",
+        "basePrice": 0,
+        "intraDayHighLow": {
+          "min": 92.02,
+          "max": 96.19,
+          "value": 93.6
+        },
+        "weekHighLow": {
+          "min": 85.91,
+          "minDate": "04-Mar-2025",
+          "max": 114.1,
+          "maxDate": "03-Oct-2024",
+          "value": 93.6
+        },
+        "iNavValue": "92.72",
+        "checkINAV": true,
+        "tickSize": 0.01,
+        "ieq": ""
+      },
+      "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "basicIndustry": "Mutual Fund Scheme"
+      },
+      "preOpenMarket": {
+        "preopen": [
+          {
+            "price": 0,
+            "buyQty": 0,
+            "sellQty": 0,
+            "iep": true
+          }
+        ],
+        "ato": {
+          "buy": 0,
+          "sell": 0
+        },
+        "IEP": 0,
+        "totalTradedVolume": 0,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": null,
+        "totalBuyQuantity": 0,
+        "totalSellQuantity": 0,
+        "atoBuyQty": 0,
+        "atoSellQty": 0,
+        "Change": 0,
+        "perChange": 0,
+        "prevClose": 0
+      }
+    }
+  },
+  {
+    "symbol": "NIFTYBEES",
+    "timestamp": "2025-04-06T19:38:11.567586",
+    "data": {
+      "info": {
+        "symbol": "NIFTYBEES",
+        "companyName": "Nippon India ETF Nifty 50 BeES",
+        "industry": "Mutual Fund Scheme",
+        "activeSeries": [
+          "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": true,
+        "isDelisted": false,
+        "isin": "INF204KB14I2",
+        "slb_isin": "INF204KB14I2",
+        "listingDate": "2002-01-08",
+        "isMunicipalBond": false,
+        "isHybridSymbol": false,
+        "isTop10": false,
+        "identifier": "NIFTYBEESEQN"
+      },
+      "metadata": {
+        "series": "EQ",
+        "symbol": "NIFTYBEES",
+        "isin": "INF204KB14I2",
+        "status": "Listed",
+        "listingDate": "08-Jan-2002",
+        "industry": "Mutual Fund Scheme",
+        "lastUpdateTime": "04-Apr-2025 16:00:00",
+        "pdSectorPe": "NA",
+        "pdSymbolPe": "NA",
+        "pdSectorInd": "NA",
+        "pdSectorIndAll": "NA"
+      },
+      "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+          "surv": null,
+          "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 1653266385
+      },
+      "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+      },
+      "currentMarketType": "NM",
+      "priceInfo": {
+        "lastPrice": 258,
+        "change": -2.4599999999999795,
+        "pChange": -0.9444828380557397,
+        "previousClose": 260.46,
+        "open": 260.48,
+        "close": 257.16,
+        "vwap": 257.45,
+        "stockIndClosePrice": 0,
+        "lowerCP": "208.92",
+        "upperCP": "313.38",
+        "pPriceBand": "20",
+        "basePrice": 0,
+        "intraDayHighLow": {
+          "min": 256.48,
+          "max": 260.58,
+          "value": 258
+        },
+        "weekHighLow": {
+          "min": 241.31,
+          "minDate": "19-Apr-2024",
+          "max": 293.99,
+          "maxDate": "30-Sep-2024",
+          "value": 258
+        },
+        "iNavValue": "256.3",
+        "checkINAV": true,
+        "tickSize": 0.01,
+        "ieq": ""
+      },
+      "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "basicIndustry": "Mutual Fund Scheme"
+      },
+      "preOpenMarket": {
+        "preopen": [
+          {
+            "price": 0,
+            "buyQty": 0,
+            "sellQty": 0,
+            "iep": true
+          }
+        ],
+        "ato": {
+          "buy": 0,
+          "sell": 0
+        },
+        "IEP": 0,
+        "totalTradedVolume": 0,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": null,
+        "totalBuyQuantity": 0,
+        "totalSellQuantity": 0,
+        "atoBuyQty": 0,
+        "atoSellQty": 0,
+        "Change": 0,
+        "perChange": 0,
+        "prevClose": 0
+      }
+    }
+  },
+  {
+    "symbol": "SMALLCAP",
+    "timestamp": "2025-04-06T19:38:16.891497",
+    "data": {
+      "info": {
+        "symbol": "SMALLCAP",
+        "companyName": "Mirae Asset MF-Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF",
+        "industry": "Mutual Fund Scheme",
+        "activeSeries": [
+          "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": true,
+        "isDelisted": false,
+        "isin": "INF769K01LC3",
+        "slb_isin": "INF769K01LC3",
+        "listingDate": "2024-02-29",
+        "isMunicipalBond": false,
+        "isHybridSymbol": false,
+        "isTop10": false,
+        "identifier": "SMALLCAPEQN"
+      },
+      "metadata": {
+        "series": "EQ",
+        "symbol": "SMALLCAP",
+        "isin": "INF769K01LC3",
+        "status": "Listed",
+        "listingDate": "29-Feb-2024",
+        "industry": "Mutual Fund Scheme",
+        "lastUpdateTime": "04-Apr-2025 16:00:00",
+        "pdSectorPe": "NA",
+        "pdSymbolPe": "NA",
+        "pdSectorInd": "NA",
+        "pdSectorIndAll": "NA"
+      },
+      "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+          "surv": null,
+          "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 129978305
+      },
+      "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+      },
+      "currentMarketType": "NM",
+      "priceInfo": {
+        "lastPrice": 40.93,
+        "change": -1.3999999999999986,
+        "pChange": -3.307347035199619,
+        "previousClose": 42.33,
+        "open": 42.1,
+        "close": 40.82,
+        "vwap": 41.06,
+        "stockIndClosePrice": 0,
+        "lowerCP": "33.67",
+        "upperCP": "50.50",
+        "pPriceBand": "20",
+        "basePrice": 0,
+        "intraDayHighLow": {
+          "min": 40.5,
+          "max": 42.48,
+          "value": 40.93
+        },
+        "weekHighLow": {
+          "min": 37.45,
+          "minDate": "03-Mar-2025",
+          "max": 55.25,
+          "maxDate": "09-Jul-2024",
+          "value": 40.93
+        },
+        "iNavValue": "43.16",
+        "checkINAV": true,
+        "tickSize": 0.01,
+        "ieq": ""
+      },
+      "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "basicIndustry": "Mutual Fund Scheme"
+      },
+      "preOpenMarket": {
+        "preopen": [
+          {
+            "price": 0,
+            "buyQty": 0,
+            "sellQty": 0,
+            "iep": true
+          }
+        ],
+        "ato": {
+          "buy": 0,
+          "sell": 0
+        },
+        "IEP": 0,
+        "totalTradedVolume": 0,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": null,
+        "totalBuyQuantity": 0,
+        "totalSellQuantity": 0,
+        "atoBuyQty": 0,
+        "atoSellQty": 0,
+        "Change": 0,
+        "perChange": 0,
+        "prevClose": 0
+      }
+    }
+  }
+]
