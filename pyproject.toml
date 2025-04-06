@@ -1,0 +1,13 @@
+[project]
+name = "nse-spider"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "brotli>=1.1.0",
+    "ipython>=9.0.2",
+    "requests>=2.32.3",
+    "selenium>=4.31.0",
+    "webdriver-manager>=4.0.2",
+]
